@@ -32,4 +32,4 @@ sql.connect(config)
             console.log('Servidor corriendo en http://localhost:3001');
         });
     })
-    .catch(err => console.error('Error de conexión a la base de datos:', err));
+    .catch(err => console.error('el codigo tuyo ta malo, buen mielda:', err));
